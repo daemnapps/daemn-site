@@ -242,7 +242,7 @@
         return;
       }
       const K = await kb(), hits = best(q, K);
-      if (!hits.length) { wait.innerHTML = '<p>Nothing in the repo answers that yet. Try naming the tool, or <a href="https://github.com/daemnapps/prizm-labs" target="_blank" rel="noopener">browse the repo</a>.</p>'; return; }
+      if (!hits.length) { wait.innerHTML = '<p>Nothing in the repo answers that yet. Try naming the tool.</p>'; return; }
       const top = hits[0].it;
       wait.innerHTML = `<p><b>${esc(top.section)}</b>${top.tool ? ' · ' + esc(top.tool.replace(/^\d+-/, '').replace(/-/g, ' ')) : ''}</p><p>${md(excerpt(top.text, q))}</p>` +
         `<div class="src">${hits.map(h => `<a href="${esc(h.it.url)}" target="_blank" rel="noopener">${esc(h.it.section)} — ${esc(h.it.path)} →</a>`).join('')}</div>`;
@@ -266,10 +266,8 @@
     if (q) answer(q); else setTimeout(() => input.focus(), 50);
   }
   window.openAsk = openAsk;
-  const btn = document.createElement('button'); btn.className = 'askbtn'; btn.type = 'button';
-  btn.innerHTML = `<i class="ib">${icon('sparkles')}</i><span>Ask the machine</span>`; btn.setAttribute('aria-label', 'Ask the machine');
-  btn.addEventListener('click', () => openAsk()); document.body.appendChild(btn);
-  document.addEventListener('click', e => { const a = e.target.closest('[data-ask]'); if (a) { e.preventDefault(); openAsk(a.dataset.ask || ''); } });
+  // The Ask button is off the site (Damon, 28 Oct 2026: the repo it answered from is private now).
+  const btn = document.createElement('button');
 
   /* ═══ EASTER EGGS ════════════════════════════════════════════════════
      1  Konami code, or type "prizm" (on a phone: long-press the logo, or
@@ -338,6 +336,6 @@
 
   try {
     console.log('%cPRIZM LABS', 'font:800 22px Unbounded,sans-serif;background:linear-gradient(96deg,#6D3BF5,#2F5BFF,#00A8CC,#12A06F,#F09000,#F04A2E,#DB2A8C);-webkit-background-clip:text;color:transparent');
-    console.log('%cYou read source. You are our kind of person.\nEvery prompt behind this site is a readable file: https://github.com/daemnapps/prizm-labs\n(try typing "prizm" on the page)', 'font:12px "DM Mono",monospace;color:#6A635A');
+    console.log('%cYou read source. You are our kind of person.\n(try typing "prizm" on the page)', 'font:12px "DM Mono",monospace;color:#6A635A');
   } catch (e) {}
 })();

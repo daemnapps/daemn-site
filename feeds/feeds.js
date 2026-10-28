@@ -16,6 +16,25 @@
   const UP = b => b == 'general' ? 'General' : b.toUpperCase();
   const P = {tiktok: 'TIKTOK', instagram: 'REEL', youtube: 'YOUTUBE'};
   const PLATN = {tiktok: 'TikTok', instagram: 'Instagram', youtube: 'YouTube'};
+  // The platform's own player for a post (Damon, 28 Oct 2026: a post with no saved cover still
+  // has to show something, because the point is to watch the videos). Official embeds only.
+  function player(c) {
+    const u = c.url || '';
+    let m = u.match(/tiktok\.com\/.*\/video\/(\d+)/);
+    if (m) return `https://www.tiktok.com/player/v1/${m[1]}?music_info=0&description=0&rel=0`;
+    m = u.match(/instagram\.com\/(?:[\w.]+\/)?(p|reel|tv)\/([\w-]+)/);
+    if (m) return `https://www.instagram.com/${m[1]}/${m[2]}/embed/`;
+    m = u.match(/(?:youtube\.com\/(?:shorts\/|watch\?v=)|youtu\.be\/)([\w-]{6,})/);
+    if (m) return `https://www.youtube-nocookie.com/embed/${m[1]}`;
+    return null;
+  }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-play]'); if (!b) return;
+    e.preventDefault(); const src = b.dataset.play; b.removeAttribute('data-play');
+    b.insertAdjacentHTML('beforeend', frame(src + (src.includes('?') ? '&' : '?') + 'autoplay=1', 'm-player'));
+  });
+  // Loaded only on a tap, one at a time: a page that opens hundreds of players at once gets blocked.
+  const frame = (src, cls) => `<iframe class="${cls}" src="${esc(src)}" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen title="The post, played here"></iframe>`;
   const SORTS = [['in', 'Just in'], ['sent', 'Most sent'], ['rise', 'Rising'], ['punch', 'Punching above'], ['views', 'Most viewed'], ['new', 'Newest post']];
   const PSORTS = [['days', 'Running longest'], ['new', 'Newest ad'], ['copies', 'Most copies']];
   const WINS = [['7', '7d'], ['30', '30d'], ['90', '90d'], ['all', 'All time']];
@@ -249,10 +268,11 @@
       views: c => [c.views || 0, 0], new: c => [-(c.age ?? 9999), c.views || 0]}[sort];
     cs.sort((a, b) => { const x = key(a), y = key(b); return y[0] - x[0] || y[1] - x[1]; });
     const seen = new Set(); cs = cs.filter(c => !seen.has(c.key) && seen.add(c.key));
-    $('grid').innerHTML = cs.length ? cs.slice(0, shown).map((c, i) => `<div class="m-card ${c.keep === false ? 'out' : ''}"><a class="m-thumb" href="${esc(c.url)}" target="_blank" rel="noopener">
+    $('grid').innerHTML = cs.length ? cs.slice(0, shown).map((c, i) => { const pl = !c.thumb && player(c);
+      return `<div class="m-card ${c.keep === false ? 'out' : ''}">${pl ? `<button type="button" class="m-thumb m-live" data-play="${esc(pl)}" aria-label="Play @${esc(c.author)}'s post here"><span class="m-tap"><i>▶</i><b>Play here</b><small>@${esc(c.author)}${c.views ? ' · ' + fmt(c.views) + ' views' : ''}</small></span>` : `<a class="m-thumb" href="${esc(c.url)}" target="_blank" rel="noopener">`}
       ${c.thumb ? `<img loading="lazy" alt="" src="${DATA}thumbs/${esc(c.id)}.webp" onerror="this.remove()">` : ''}
       <span class="m-pb">${P[c.platform] || '?'}</span><span class="m-badges">
-      ${c.seen_days === 0 ? '<span class="m-bd new">NEW</span>' : ''}</span></a>
+      ${c.seen_days === 0 ? '<span class="m-bd new">NEW</span>' : ''}</span>${pl ? '</button>' : '</a>'}
       <div class="m-body"><div class="m-author">@${esc(c.author)}${c.kind ? ` <span class="m-sub">· ${esc(c.kind)}</span>` : ''}</div>
       ${c.what ? `<div class="m-what">${esc(c.what)}</div>` : ''}<div class="m-cap">${esc(c.caption)}</div>
       <div class="m-stats">${stat(c.views, 'views')}${stat(c.likes, 'likes')}${signal(c)}</div>
@@ -261,7 +281,7 @@
       ${c.why ? `<div class="m-why">${esc(c.why)}</div>` : ''}
       <div class="m-acts"><a href="${esc(c.url)}" target="_blank" rel="noopener">Open</a>
       ${c.sheet || c.frames ? `<button data-i="${i}" data-sheet="1">Sheet</button>` : ''}
-      <button data-i="${i}">Make your own</button></div></div></div>`).join('')
+      <button data-i="${i}">Make your own</button></div></div></div>`; }).join('')
       : `<div class="m-empty">Nothing matches.</div>`;
     $('more').hidden = cs.length <= shown;
     $('grid')._list = cs;
@@ -365,11 +385,11 @@
     if (t == 'paid') return ['Take this ad apart and write a brief from it.', '',
       `Ad: ${c.url}`, `Brand running it: ${S.advertisers.find(a => a.id == c.adv)?.name || ''}`, c.headline ? `Headline: ${c.headline}` : null,
       `Who it's for: ${whoFor(c)}`, '',
-      `Use ${c.video ? 'tools/video-teardown' : 'tools/image-teardown'} in the Prizm Labs repo (https://github.com/daemnapps/prizm-labs). ` +
+      `Use ${c.video ? 'tools/video-teardown' : 'tools/image-teardown'} in Prizm Labs. ` +
       "Take the ad apart, then write the brief for that person. Copy the structure, not the words. Don't invent anything."].filter(x => x !== null).join('\n');
     return ['Take this post apart and write a brief from it.', '',
       `Post: ${c.url}`, `Who it's for: ${whoFor(c)}`, '',
-      `Use ${c.pic ? 'tools/image-teardown' : 'tools/video-teardown (or tools/image-teardown if it is a picture)'} in the Prizm Labs repo (https://github.com/daemnapps/prizm-labs). ` +
+      `Use ${c.pic ? 'tools/image-teardown' : 'tools/video-teardown (or tools/image-teardown if it is a picture)'} in Prizm Labs. ` +
       "Take the post apart, then write the brief for that person. Copy the structure, not the words. Don't invent anything."].join('\n');
   }
   function mdown(src) {
@@ -405,7 +425,7 @@
     const head = paid ? `<p class="label hue">${esc(S.advertisers.find(a => a.id == c.adv)?.name)}</p><h3>${esc(c.headline || 'An ad')}</h3><p>${esc(c.copy)}</p>`
       : `<p class="label hue">@${esc(c.author)}</p><h3>${esc(c.what || 'A post')}</h3><p>${esc(c.caption)}</p>`;
     openPanel(`<p class="eyebrow">${esc(stat)}</p>${head}
-      ${c.thumb ? `<img class="cover" src="${DATA}thumbs/${esc(c.id)}.webp" alt="">` : ''}
+      ${!paid && player(c) ? `<button type="button" class="watch m-live" data-play="${esc(player(c))}">${c.thumb ? `<img class="cover" src="${DATA}thumbs/${esc(c.id)}.webp" alt="">` : ''}<span class="m-tap"><i>▶</i><b>Play here</b></span></button>` : c.thumb ? `<img class="cover" src="${DATA}thumbs/${esc(c.id)}.webp" alt="">` : ''}
       <h2>1 · Watch it</h2><p><a class="btn ghost" href="${esc(c.url)}" target="_blank" rel="noopener">Watch it on ${esc(where)}</a></p>
       ${c.frames ? `<img class="frames" src="${DATA}thumbs/${esc(c.id)}-frames.webp" alt="Six moments from the video, left to right">` : ''}
       <h2 id="builthead">2 · How it's built</h2><div id="built">${c.sheet ? '<p>Loading…</p>' : c.frames ? '<p>No written sheet for this one yet — the six frames above are the rebuild material. The prompt below takes it apart.</p>' : '<p>Not taken apart yet. The prompt below does it.</p>'}</div>
@@ -414,7 +434,7 @@
       <button class="btn ghost" id="copy">Copy the prompt</button></div>
       <ol class="steps">
         <li><div><b>Press a button</b><p>Open in Claude, or Copy the prompt.</p></div></li>
-        <li><div><b>Open your tool</b><p>Your Higgsfield Supercomputer, or Claude Code with the Prizm Labs repo.</p></div></li>
+        <li><div><b>Open your tool</b><p>Your Higgsfield Supercomputer, or Claude Code with Prizm Labs.</p></div></li>
         <li><div><b>Paste and press Enter</b><p>It takes the ${paid ? 'ad' : 'post'} apart and writes the brief.</p></div></li>
       </ol>
       <details><summary>See the prompt</summary><pre>${esc(p)}</pre></details>`);

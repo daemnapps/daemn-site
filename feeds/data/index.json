@@ -1,6 +1,6 @@
 {
- "updated": "Updated 2 Oct 2026",
- "built": "2026-10-02",
+ "updated": "Updated 28 Oct 2026",
+ "built": "2026-10-28",
  "feeds": [
   {
    "id": "looksmax-meme-scroll",
@@ -2507,6 +2507,287 @@
    "cards": 191
   },
   {
+   "id": "face-back-interests",
+   "title": "Old-school sports, soul and grandpa humour",
+   "brand": "douxds",
+   "core": "face-back",
+   "sub": null,
+   "whose": "A 50-65 year-old man who scrolls for 80s-90s NBA and NFL nostalgia, classic hip-hop and R&B, golf and fishing laughs, and grandfather and retirement jokes.",
+   "line": null,
+   "sources": 38,
+   "probation": 5,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "90s NBA highlights",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "old school NFL highlights",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "grandpa funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "golf fails funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "retirement humor skit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "old school r&b throwback",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "oldschoolnba",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "90snba",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nflthrowback",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "grandpatok",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "golffails",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "oldschoolrnb",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "90snba",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "oldschoolhiphop",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "golfmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "fishingmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "grandpahumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nflthrowback",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "greatest NBA moments 90s",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "classic NFL bloopers",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "funny golf fails compilation",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "grandpa pranks funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "old school nba highlights",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "90s nfl legends moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "90shiphop",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "retiredlife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "fishingfails",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nbahistory",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "retirementmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "old school nba mixtapes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "90s nfl hard hits",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "grandpa funny pranks",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "golf funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "nadiasummerr",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@nadiasummerr/video/7646925322868280598 (7,300,000 views)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "mtx_andrade",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@mtx_andrade/video/7657961934985137426 (6,200,000 views)"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "theold_head",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DcZnATvjH3e/ (3,463,320 views) · verified on IG, 29,295 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "nbabrasil",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DcyZxSNCf9z/ (1,524,518 views) · verified on IG, 3,520,574 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "ronaldinho",
+     "status": "probation",
+     "why": "mention hop: named in winner https://www.instagram.com/p/DcyZxSNCf9z/ (1,524,518 views) · verified on IG, 81,204,606 followers"
+    }
+   ],
+   "cards": 115
+  },
+  {
    "id": "fed-up-king",
    "title": "Fed Up King",
    "brand": "douxds",
@@ -2702,6 +2983,804 @@
     }
    ],
    "cards": 133
+  },
+  {
+   "id": "fed-up-king-2026-10-17-skincare",
+   "title": "fed-up-king · research 2026-10-17-skincare",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 10,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "razor bumps black men",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "ingrown hair neck",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "dark spots men skincare",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hyperpigmentation black men",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "razor bump routine",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "shaving tips black men",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "razor bumps before and after",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barber razor bumps",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "mens skincare routine black men",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "skin glow up men before after",
+     "status": "",
+     "why": "research round 2026-10-17-skincare (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 347
+  },
+  {
+   "id": "fed-up-king-2026-10-17-sports",
+   "title": "douxds · fed-up-king-2026-10-17-sports",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 8,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba fight skit",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba trash talk skit",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nfl fight funny",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "goat debate barbershop",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hip hop beef skit",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "rapper fight funny",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hood comedy fight skit",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barbershop fight skit",
+     "status": "",
+     "why": "research round 2026-10-17-sports (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 333
+  },
+  {
+   "id": "fed-up-king-2026-10-23-bald-content",
+   "title": "fed-up-king · research 2026-10-23-bald-content",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 12,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald summer",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald summer song",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald men memes",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald man prank",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald jokes",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "shaving my head for the first time",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "going bald transformation",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald meet up",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald gang",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald and beard black men",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald head shine",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald fade black men",
+     "status": "",
+     "why": "research round 2026-10-23-bald-content (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 589
+  },
+  {
+   "id": "fed-up-king-2026-10-23-bald-problem",
+   "title": "fed-up-king · research 2026-10-23-bald-problem",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 11,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "razor bumps on head",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bumps on head after shaving",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "scalp bumps shaved head",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "how to shave your head",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "how to shave your head without bumps",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "head shave black men",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "back of head bumps",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "neck bumps after haircut",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "bald head care routine",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "ingrown hair on head",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "skull shaver review",
+     "status": "",
+     "why": "research round 2026-10-23-bald-problem (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 342
+  },
+  {
+   "id": "fed-up-king-2026-10-23-native-statics",
+   "title": "fed-up-king · research 2026-10-23-native-statics",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 12,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba memes slideshow",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "basketball meme photo",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hip hop memes slideshow",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "rap memes photo dump",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nfl memes slideshow",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "sports memes funny pictures",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "black twitter tweets funny",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hood comedy memes pictures",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barbershop memes",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "fresh lineup photo",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "razor bump",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "men grooming notes app",
+     "status": "",
+     "why": "research round 2026-10-23-native-statics (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 472
+  },
+  {
+   "id": "fed-up-king-fights",
+   "title": "douxds · fed-up-king-fights",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 6,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hood fight skit",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barbershop fight skit",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "backyard wrestling",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "fight commentary skit",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "wwe skit funny",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "slap fight funny",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    }
+   ],
+   "cards": 266
+  },
+  {
+   "id": "fed-up-king-interests",
+   "title": "Barbershop sports banter and hip-hop humour",
+   "brand": "douxds",
+   "core": "fed-up-king",
+   "sub": null,
+   "whose": "A Black man in his late 20s to 40s who sits in the barbershop chair talking NBA and NFL, and laughs at sports memes, GOAT arguments and hip-hop jokes.",
+   "line": null,
+   "sources": 40,
+   "probation": 6,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barbershop sports debate",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba trade reaction funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "goat debate argument",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nfl game day reactions",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba memes of the week",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nfl fans reacting funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nbamemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nbatiktok",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nflmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "goatdebate",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "barbershopconversations",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "sportshumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nbamemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nflmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "barbershopconvo",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nbahumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "sportsmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "hoopsbanter",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "barbershop sports debate funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nba memes compilation",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nfl funniest moments reactions",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "goat debate hot takes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "barbershop debate",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba memes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nfl funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hip hop funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "trade reaction funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "hiphopmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "barbershopbanter",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "hiphopmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "goatdebate",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nba funniest moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nfl memes compilation",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "hip hop funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "mattcatcher24",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@mattcatcher24/video/7668134956190682399 (10,600,000 views)"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "daily_buddha_preaching",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DVghBOaD_XP/ (7,775,378 views) · verified on IG, 191,713 followers"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "nfloncbs",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@nfloncbs/video/7695493249493929230 (2,900,000 views)"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "nfloncbs",
+     "status": "probation",
+     "why": "cross hop: TikTok winner nfloncbs checked on IG (2,900,000 views) · verified on IG, 1,650,319 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "sportslivedaily",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DbsxsydBc-F/ (2,163,492 views) · verified on IG, 10,648 followers"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "duckhousehq",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@duckhousehq/video/7694783653586537742 (1,300,000 views)"
+    }
+   ],
+   "cards": 95
   },
   {
    "id": "forty-year-shaver",
@@ -3274,6 +4353,217 @@
    "cards": 137
   },
   {
+   "id": "gift-buyer-interests",
+   "title": "Wife's scroll: husband skits and holiday chaos",
+   "brand": "douxds",
+   "core": "gift-buyer",
+   "sub": null,
+   "whose": "A woman in her 30s-50s who laughs at marriage skits and couples humor, and who scrolls family holiday chaos while hunting for what to get her husband.",
+   "line": null,
+   "sources": 28,
+   "probation": 7,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "husband wife skit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "my husband be like",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "husband opens gift reaction",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "couples humor marriage",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "family christmas chaos",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "wife vs husband funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "husbandwife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "marriagehumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "marriedlife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "husbandsoftiktok",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "wifehumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "christmaschaos",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "husbandandwife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "marriagememes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "marriedlifehumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "husbandhumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "wifelife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "christmasfails",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "husband wife comedy skit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "husband christmas gift reaction",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "family holiday chaos funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "kiarra.hillman",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DTTYK1UEtNb/ (2,799,821 views) · verified on IG, 286,681 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "kassidyfaith__",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/Dbjd_wyJU1V/ (2,788,827 views) · verified on IG, 2,427 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "orion6917",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DR-NLf4EkW8/ (2,710,413 views) · verified on IG, 53,112 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "kelsey_casa",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DX0JCl1RFNh/ (2,578,389 views) · verified on IG, 8,853 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "lindseyguarinoo",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/Dbtbx87SFvt/ (2,240,220 views) · verified on IG, 15,760 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "desaurpardes",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DV0uh8TjOco/ (1,462,095 views) · verified on IG, 31,018 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "cutecouple_plusone",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DW4DOCgDS_7/ (1,224,186 views) · verified on IG, 24,812 followers"
+    }
+   ],
+   "cards": 82
+  },
+  {
    "id": "glow-up",
    "title": "Glow Up",
    "brand": "douxds",
@@ -3588,6 +4878,379 @@
     }
    ],
    "cards": 500
+  },
+  {
+   "id": "glow-up-fights",
+   "title": "douxds · glow-up-fights",
+   "brand": "douxds",
+   "core": "glow-up",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 6,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "aura battle",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "aura farming skit",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "anime power up irl",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "street fighter irl",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "streamer rage fight",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "2k fight",
+     "status": "",
+     "why": "fight-series pull, 17 Oct 2026 (Damon: rank 1,000, keep 2026 on)"
+    }
+   ],
+   "cards": 311
+  },
+  {
+   "id": "glow-up-interests",
+   "title": "Hoops, 2K, gaming and school chaos",
+   "brand": "douxds",
+   "core": "glow-up",
+   "sub": null,
+   "whose": "A 16-24 year-old guy who watches NBA and 2K edits, gaming streams, school and prom skits, looksmaxxing memes and sneaker drop hauls for fun.",
+   "line": null,
+   "sources": 43,
+   "probation": 5,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba edit fyp",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "2k park funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "streamer clip rage",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "prom proposal fail",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "looksmaxxing meme",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "sneaker drop line chaos",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nbaedit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nba2k",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "looksmaxxing",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "promtok",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "sneakerhead",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "gamingclips",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nbaedits",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nba2kmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "looksmaxxingmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "highschoolmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "sneakermemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "twitchclips",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nba 2k funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "nba highlights edit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "streamer funniest clips",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "high school prom memes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "nba edit sped up",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "2k myplayer funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "prom proposal fails",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "looksmaxxing memes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "streamer rage clips",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "nbaedits",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "2kcommunity",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "gamingmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "highschoolhumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "sneakerheads",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nbamemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "nba2k",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "gamingmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "schoolmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "streamer funny clips",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "high school skits",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "bucko.editz34k",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@bucko.editz34k/video/7522539995979091213 (8,600,000 views)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "masbil3012",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@masbil3012/video/7536894642210508087 (6,100,000 views)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "BabyChiefDoit",
+     "status": "probation",
+     "why": "mention hop: named in winner https://www.tiktok.com/@masbil3012/video/7536894642210508087 (6,100,000 views)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "gwes32",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@gwes32/video/7626854323636555038 (3,600,000 views)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "m1rda.",
+     "status": "probation",
+     "why": "mention hop: named in winner https://www.tiktok.com/@gwes32/video/7626854323636555038 (3,600,000 views)"
+    }
+   ],
+   "cards": 153
   },
   {
    "id": "ingrown-fighter",
@@ -4800,6 +6463,408 @@
    "cards": 88
   },
   {
+   "id": "spot-hider-2026-10-25-face-dark-marks",
+   "title": "spot-hider · research 2026-10-25-face-dark-marks",
+   "brand": "pasnida",
+   "core": "spot-hider",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 12,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "dark spots on face over 40",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "melasma before and after",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "skincare over 50",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "get ready with me over 50",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "grandma skincare secret",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "church ladies funny",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "pickleball ladies funny",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "southern mama comedy",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hallmark christmas movie funny",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "thanksgiving with family funny",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "turmeric face mask before and after",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "sun spots remedy",
+     "status": "",
+     "why": "research round 2026-10-25-face-dark-marks (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 387
+  },
+  {
+   "id": "spot-hider-2026-10-25-grandma-fights",
+   "title": "spot-hider · research 2026-10-25-grandma-fights",
+   "brand": "pasnida",
+   "core": "spot-hider",
+   "sub": null,
+   "whose": null,
+   "line": null,
+   "sources": 10,
+   "probation": 0,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "grandma fight funny",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "grandmas arguing comedy",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "korean grandma skincare",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "thai grandma skincare secret",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "korean vs thai skincare",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "asian grandma roast",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "church ladies fighting funny",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hallmark movie parody grandma",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "southern grandma comedy",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "pickleball grandma fight",
+     "status": "",
+     "why": "research round 2026-10-25-grandma-fights (RESEARCH-ROUND.md)"
+    }
+   ],
+   "cards": 339
+  },
+  {
+   "id": "spot-hider-interests",
+   "title": "Church, Pickleball and Grandkid Fun",
+   "brand": "pasnida",
+   "core": "spot-hider",
+   "sub": null,
+   "whose": "A 50-70 year old Southern-leaning American woman who scrolls for church humour, pickleball clips, grandkid moments, Hallmark and Dancing with the Stars reactions, and wedding and garden fun.",
+   "line": null,
+   "sources": 29,
+   "probation": 7,
+   "sweeps": 1,
+   "source_list": [
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "church lady humor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "pickleball fails funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "grandma and grandkids funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "southern sayings skit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "hallmark christmas movie reaction",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "search",
+     "value": "dancing with the stars reaction",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "churchhumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "pickleballfunny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "southernsayings",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "grandmalife",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "hallmarkmovies",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "hashtag",
+     "value": "churchlady",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "churchhumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "southernhumor",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "pickleballmemes",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "grandmasoftiktok",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "hallmarkchristmas",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "hashtag",
+     "value": "dwtsreactions",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "church lady comedy skit",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "pickleball funny moments",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "grandma pranks grandkids funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "youtube",
+     "kind": "search",
+     "value": "wedding fails funny",
+     "status": "",
+     "why": "from the ask, planned 2026-10-13"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "face.rite",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DdRhCwnjMpS/ (5,283,705 views) · verified on IG, 103,194 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "brooklyninbk",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DLx06VhSmNY/ (2,223,394 views) · verified on IG, 27,450 followers"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "churchsync",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@churchsync/video/7692897527653321997 (859,000 views)"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "destinationorlandotv",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DR-wHNakUrH/ (686,596 views) · verified on IG, 5,117 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "pickle.li",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/DK0rPWQptDW/ (560,055 views) · verified on IG, 4,433 followers"
+    },
+    {
+     "platform": "instagram",
+     "kind": "account",
+     "value": "jorrodgers",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.instagram.com/p/Dc3_ZhRMp48/ (558,427 views) · verified on IG, 243,160 followers"
+    },
+    {
+     "platform": "tiktok",
+     "kind": "account",
+     "value": "julianaschuyler",
+     "status": "probation",
+     "why": "creator hop: authored winner https://www.tiktok.com/@julianaschuyler/video/7682555473819618574 (499,700 views)"
+    }
+   ],
+   "cards": 71
+  },
+  {
    "id": "sun-damage-reckoner",
    "title": "The Sun Damage Reckoner (Andrea)",
    "brand": "pasnida",
@@ -5254,6 +7319,15 @@
    "ads": 150
   },
   {
+   "id": "penrose",
+   "name": "penrose",
+   "brands": [
+    "douxds",
+    "pasnida"
+   ],
+   "ads": 200
+  },
+  {
    "id": "smooche",
    "name": "Smooche",
    "brands": [
@@ -5270,13 +7344,11 @@
    "ads": 200
   }
  ],
- "posts": 5278,
- "ads": 1124,
+ "posts": 9180,
+ "ads": 1324,
  "prompts": {
   "feed-plan-v3.md": "# Feed plan — v3\n\n**Guard, read first.** Nothing in this prompt is an example to copy. Every\nsearch, hashtag and name you return must come from THE ASK below and from how\nreal people label that content on each platform — never from this prompt's own\nwording, and never invented to fill a slot. An empty slot is a correct answer.\n\n## WHAT THIS FEED IS — the standing rule, above any ask\n**Pure entertainment.** The posts people watch because they want to watch\nthem — the scroll itself. Skits, memes, edits, stunts, fails, reactions,\noddly-satisfying, storytimes, chaos, brain rot. Things that get SENT to a\nfriend.\n\n**Never:** anything selling a product, anything teaching, tips, tutorials,\nroutines, reviews, \"problem → solution\", before/after, brand accounts,\ncreators pitching. If a search would mostly return people solving a problem or\nrecommending a thing, it is the WRONG search — even if the ask mentions a\nproblem or a product. The ask tells you WHOSE scroll this is; your job is to\nfind what that person watches for fun, not content about their problem.\n\nThe marketer reading this feed rebuilds entertainment FORMATS as ads. He\nalready has every ad and every how-to he needs.\n\n## THE ASK\n{ask}\n\n## How to think\n- Start from the PERSON in the ask: their age, humor, subcultures, the\n  in-jokes and slang of their corner of the internet. Search for that.\n- Search the way the people who POST it label it. Meme pages and skit creators\n  use their community's own tags and slang, never a marketer's description.\n- Prefer the niche room over the head term. The head term returns everything.\n- Hashtags are one word, no `#`, no spaces. Searches are 2–5 plain words.\n- Instagram can only be searched by hashtag. YouTube and TikTok take phrases.\n- When the ask is an avatar card, read it for WHO the person is — age, culture,\n  city, music, sport, humor. Ignore its product, pain and angle lines entirely;\n  they describe what we sell him, not what he watches.\n- If the ask names accounts, put them in ACCOUNTS. Never guess a handle.\n\n## Return — JSON only, these slots, nothing else\n```json\n{\n \"NAME\": \"2-4 word kebab-case feed name, says whose scroll or what kind of entertainment\",\n \"TITLE\": \"the feed's plain-English title, under 8 words\",\n \"WHOSE_SCROLL\": \"one sentence: the person whose feed this imitates\",\n \"TIKTOK_SEARCHES\": [\"3-6 phrases\"],\n \"TIKTOK_HASHTAGS\": [\"3-6 hashtags\"],\n \"INSTAGRAM_HASHTAGS\": [\"3-6 hashtags\"],\n \"YOUTUBE_SEARCHES\": [\"2-4 phrases\"],\n \"ACCOUNTS\": [{\"platform\": \"tiktok|instagram\", \"handle\": \"only handles named in the ask\"}],\n \"LANGUAGES\": [\"2-letter codes of the languages this person actually scrolls in — from the ask only; English-only unless the ask says otherwise\"],\n \"KEEP_RULE\": \"one sentence: what a post must BE to belong — in entertainment terms\",\n \"DROP_RULE\": \"one sentence: the lookalike junk these searches will also return, to throw out\"\n}\n```\n",
-  "feed-sift-v3.md": "# Feed sift — v3\n\n**Guard, read first.** Judge only the posts listed below, only from what each\nrow actually says. You are reading a caption, hashtags and numbers — not the\nvideo. Do not invent what a video shows. When the row doesn't tell you, say\n`unread`. Nothing in this prompt is an example to copy.\n\nA scraper pulled these posts for a standing feed. Sort each one into a LANE.\nYou do not decide what is kept — the lane does.\n\n## THE LANES\n**entertainment** — the priority. Watched purely because it entertains: skits,\nmemes, edits, stunts, fails, reactions, storytimes, chaos, oddly-satisfying,\nbrain rot. The stuff that gets sent to a friend. This is what people open the\napp for, before they are aware of any problem.\nAn empty or near-empty caption with big numbers is normal here — that alone\nnever moves a post out of this lane; mark WHAT as `unread`.\n\n**educational** — a real person teaching or explaining with nothing for sale:\ntips, tutorials, routines, how-to, explainers, honest reviews, \"here's what I\nlearned\". What someone watches once they have noticed a problem and gone\nlooking.\n\n**selling** — anything with something to sell: a product pitch, shop link,\ndiscount, brand account, affiliate or \"obsessed with this product\" post,\ncreators selling presets/courses/apps. Teaching that ends in a pitch is\nselling.\n\n**junk** — news reports, giveaways, reposted TV/film clips, spam, and anything\nthe row gives no way to place.\n\n## WHOSE SCROLL THIS IS\n{ask}\n\n## This feed's own notes on what belongs\n{keep_rule}\n\n## This feed's own notes on the lookalike junk\n{drop_rule}\n\n## THE FORMAT BANK — the only format names that exist\n{formats}\n\n## THE POSTS\n{posts}\n\n## Return — JSON only: one object per post, same order, these slots\n```json\n[{\"N\": 1,\n  \"LANGUAGE\": \"the caption's language as a 2-letter code; \\\"none\\\" when there are no real words\",\n  \"LANE\": \"entertainment | educational | selling | junk\",\n  \"KIND\": \"entertainment: skit | meme | edit | stunt | fail | reaction | storytime | satisfying | chaos | other · educational: tutorial | tips | routine | explainer | review · else: pitch | brand | news | other\",\n  \"WHAT\": \"under 14 words — what this post is, in plain words, from the caption; or \\\"unread\\\"\",\n  \"FORMAT\": \"an id from the format bank ONLY if the caption makes it plain; otherwise \\\"unread\\\"\",\n  \"WHY\": \"under 14 words — why it sits in that lane\"}]\n```\n",
-  "stage1b-audience-v10-damon.md": "Today is: {today}\nHere is the teardown record: {teardown_record}\nHere is the doctrine read of the source: {doctrine_read}\nHere are this brand's avatars, and where their language sits: {avatars}\nHere are the three dimensions a lead desire is tested on: {desire_dimensions}\nHere are the five awareness levels, with what each one must and must not do:\n{awareness_levels}\nHere are the five sophistication stages, with what each one leads with:\n{sophistication_stages}\nHere is our brand's declared position — its LINE, SPINE, MECHANISM, the MARKET STAGE it sells\ninto and what that stage LEADS WITH, as labelled slots: {position}\nHere is our brand's story — who tells our version and what happens to them: its SPINE, TELLERS, STORIES with their beats and who each fits, and, once stage 1b has run, the story and teller this run picked (THIS RUN'S STORY), as labelled slots; `[UNFILLED]` when the brand has no story yet: {story}\nHere is the audience this run was DECLARED for before it started, as labelled slots — `NONE` when nothing was declared: {declared_audience}\n\n*v10 (2026-09-20, Damon: \"tighten up truly unaware-level ads for sure\"): the declared slot may also carry a `DECLARED AWARENESS`. A post pulled from the entertainment lane of an organic feed is what this person watches BEFORE any problem is on their mind — so our version enters at that rung, and this pass no longer talks itself up the ladder.*\n\n*v9 (2026-09-20, Damon: \"adjust so that it works if it needs a sub-avatar adjustment\" — the organic feeds): reads `{declared_audience}`. A video pulled from one sub-avatar's own organic feed arrives already knowing who it is for; this pass no longer re-guesses that.*\n\n*v8 (2026-09-19, Damon: \"storytelling and intent over volume\" — the Conscious Bar swipe): reads `{story}`, the brand's story file beside its position. Picks ONE story and ONE teller for the run, the way it picks the avatar: who tells our version, never what the script says.*\n\nThe video has been broken down. Decide **who our version speaks to**.\n\nThis pass exists because the answer was previously never given: every stage\nthat writes drew its words from whichever rows happened to be first in a file,\nacross every avatar the brand has. A brand with three avatars is three\ndifferent people, and blending their language produces copy that is precise\nabout a person who does not exist.\n\nEverything downstream binds to what you decide here. A wrong answer draws\nevery later stage's words from the wrong person's mouth, and it will not look\nwrong — it will look like copy that is slightly off for reasons nobody can\ntrace.\n\n**You are deciding who OUR version speaks to — not who the source spoke\nto.** The source is a swipe. Its job here is to supply structure, and it was\nmade by someone else for their own audience, which may be a different\ncategory entirely. A wardrobe video torn down for a skincare brand is a\nnormal case, not a broken one: what carries over is how it holds attention,\nand our reader is ours to name.\n\nRead the teardown for evidence — what the source assumes its viewer already\nknows, how much explaining it does, what it treats as obvious. That evidence\ntells you which of OUR avatars the rebuilt version can be aimed at. It never\nby itself rules an avatar out.\n\n**Bank size is never a reason.** Not for the avatar, not for the funnel, not\nfor a topic. The biggest bank is the most tempting wrong answer available\nhere, and \"there is more language for that reader\" is an argument about our\nfiles, not about who this speaks to. If the reader you name has a thin bank,\nname them anyway and say the bank is thin — that is the finding.\n\n---\n\n**0 · THE DECLARED AUDIENCE — read this before 1 and 5**\n\nWhen `{declared_audience}` carries a `DECLARED AVATAR` and a `DECLARED\nSUB-AVATAR`, that decision was made upstream and it is final: the video was\nfound in that person's own organic feed — it is what they already watch — and\nthe run exists to rebuild it FOR them. Print those exact keys at `AVATAR:` and\n`SUB-AVATAR:`. Do not argue them from the record and do not swap them for a\nreader the source \"fits better\"; an entertainment swipe fits nobody's problem,\nwhich is the point of it. `AVATAR WHY` says it was declared, and then what in\nthe teardown this person would recognise.\n\nEverything else on this page is still yours to decide, and you decide it FOR\nthat declared person: the funnel, the lead desire, the awareness, the\nsophistication, the story and teller, the route, the topics.\n\n**When the slot also carries a `DECLARED AWARENESS`, that is final too.** Print\nthat exact level key at `AWARENESS:`, and at `AWARENESS MUST NOT:` quote that\nlevel's must_not from the slice, word for word. Do not reason your way to a\nhigher rung because \"our reader carries the problem\" — he does, and he is not\nthinking about it while he scrolls; the declared rung is where he is STANDING\nwhen this ad reaches him. `AWARENESS WHY` says it was declared, then names the\nbeat in the teardown where our version can open on him — his world, his\npeople, his humour — with nothing of ours in frame. The lead desire is still\nyours to find; at an `unaware` entry it is a desire he would own out loud,\nnever the problem and never the claim.\n\nWhen the slot says `NONE`, this section does not exist — decide the avatar and\nthe sub-avatar from the record, exactly as 1 and 5 say.\n\n**1 · AVATAR**\n\nName one, by its exact key from the list.\n\n`AVATAR: none fit` is for one case only: **the brand has no avatar this\nproduct could be written to at all.** That is rare and it stops the run. It\nis NOT the answer for a source from another category — that is what a swipe\nusually is, and the rebuilt version still speaks to one of our people.\n\nForcing a *sub*-avatar or a funnel the record does not support is the\nexpensive mistake here, because everything after it inherits the error\nsilently. Naming the avatar our own product serves is not that mistake.\n\nIf the source's own audience is far from the one you name, say so in the\nline — it means the rebuild carries more of the work, and that is worth\nknowing before a brief is written on top of it.\n\n**2 · FUNNEL**\n\n`prospect` — has never heard of us. Nothing is assumed known: not the\nproduct, not the category's mechanics, not why anything failed before.\n`lead` — engaged, gave contact, has not bought. Knows roughly what this is\nand has not been convinced.\n`customer` — has bought. Never re-sell them the first purchase.\n`churned` — bought, then refunded, cancelled or went quiet. Something went\nwrong, and writing as though it did not reads as not knowing them.\n\nThen one line: **what this reader already knows, and what would insult them\nto be told.**\n\nThe list shows which funnels this avatar has language for. If the one you\npick is thin or empty, say so — the copy will have less real speech to draw\non, and that is worth knowing before it is written rather than after. Never\nmove to a different funnel because its bank is fuller.\n\n**The swipe determines the level.** This is not a guess about who happens to\nbe watching. It is read off the source: **what the source explains, and what\nit takes for granted.** A source that stops to explain what the problem is, or\nwhy the usual fix fails, is operating at a level where none of that is known.\nA source that skips straight past it is operating at a level where it is\nassumed. That is the level our version enters at, and therefore the level to\npull language from.\n\nWork it out in this order, and print each step:\n\n1. What does the source explain, define, or justify? Whatever it explains, its\n   viewer is not assumed to know.\n2. What does it take as already understood — mentioned without setup, or not\n   mentioned because it goes without saying?\n3. Which funnel does that combination describe? Name it, and name the moment\n   in the record that settles it.\n\nA source can operate at a level our brand has never written to. Say so if it\ndoes — the level is still the answer, and a thin bank is a finding, not a\nreason to move.\n\n**3 · MARKET STATE**\n\nThree independent questions about the market this rebuilt asset enters.\nThey are not the same question asked three ways, and answering one does not\nanswer another. Cite the avatar profile, the language bank or the teardown\nfor each — a market state you cannot point at is a guess, and this one is\ninherited by every writing stage after it.\n\n**The source has already been read — take its reading from the doctrine\nread above, never re-derive it.** The awareness the source enters and exits\non, the stage-move it runs and the desire it rides are settled facts about\nthe source, already cited to timestamps; re-deriving them here produces a\nsecond answer that quietly disagrees with the banked one. Your job is the\nanswer for OUR reader: read what the source is, then say where our version\nstands — the same, or deliberately different, and why.\n\n**The ONE lead desire.** Every product touches several desires; only one can\nlead. Name it in the avatar's own words, then test it on all three\ndimensions supplied above — print the dimension, the verdict, and the profile\nor bank row that settles it. A desire that wins on one dimension and loses on\nanother is named as such; the test is the evidence, not the conclusion. Then\none line: is that the desire the source is actually running on, or a different\none we are injecting instead?\n\n**Awareness level.** One of the five named levels above, spelled exactly as\nthe slice spells it. Read it off the same evidence the funnel uses — what\nthe source explains and what it assumes — but answer it for OUR reader, for\nthis exact desire, not for the source's. Then quote that level's `must_not`\nverbatim from the slice, because every hook written downstream is checked\nagainst it.\n\n**Sophistication stage.** One of the five named stages above, spelled exactly\nas the slice spells it. This is a question about the *market*, not the\nreader: how many competing products has this audience already been pitched,\nand what has already been claimed at them. A whole-category reset restarts\nthe clock at the first stage — say so if one has happened. Name what the\nstage means the asset must lead with.\n\n**Then read the brand's own declaration.** `{position}` names the `MARKET STAGE`\nthe brand believes it sells into, and `STAGE WHY`. Your read of the market and\nthe brand's declaration are two answers to the same question. Print both, and say\nwhether they agree. **A disagreement is a finding, not a fault to smooth over:**\nkeep the answer your evidence supports, print the brand's beside it, cite what\neach rests on, and leave the ruling to the owner. Never move your answer to match\nthe file, and never rewrite the file. If the block says `confirmed by:` a person,\nsay so — a confirmed stage outranks a single swipe's read for what the asset\nleads with, and the disagreement still prints.\n\n**And the line.** `LINE` is why this product exists for this reader. Say in one\nline whether the lead desire you named is the one the LINE serves. If it is not,\nthat is a second finding: either the desire is the wrong lead or the line is,\nand the owner decides which.\n\n**And the story.** `{story}` lists the brand's STORIES, each with the avatars and\nsub-avatars it **Fits** and the **Teller** who can tell it. Pick the ONE story whose\nFits includes the avatar you named (and the sub-avatar, if you narrowed), and whose\nbeats this swipe's structure can carry: a source with no turn cannot carry a story\nbuilt on one. Then pick ONE teller from that story's Teller line. Cite the teardown\nbeat that carries the story's turn. This is the same kind of decision as the avatar,\nwho tells our version, and it decides nothing about the script. If `{story}` is\n`[UNFILLED]`, or no story fits, answer `STORY: none fit`. **Never invent a story,\nand never pick one whose Fits excludes the avatar.** If the story block says\n`confirmed by:` a person, say so.\n\n**4 · ROUTE RECOMMENDED**\n\nWhich lane this run should be produced in: `creator`, `founder` or `ai`. One\nline of why, read off what this asset needs — a real person's credibility, a\nknown founder's world, or a generated cast the machine can print at volume.\nThis is a recommendation the run prints and a human can override; it is never\na decision about the script.\n\n**5 · SUB-AVATAR**\n\nNarrow only when the record proves it. A sub-avatar is a claim about which\nversion of this person the source speaks to, and the brand's own schema rule\nholds here: **a wrong tag is worse than none.** If the teardown does not\ndemonstrate it, answer `SUB-AVATAR: none` and lose nothing.\n\n**6 · TOPICS**\n\n**A topic is a subject the source actually raises** — the thing being talked\nabout, not the kind of thing being said. It answers *what is this about*, where\nthe row's `use` tag answers *what is this line doing*.\n\nTake them from the vocabulary the roster lists for this brand, using its exact\nkeys. That list is the whole of what exists; a topic you invent matches no rows\nand silently narrows every later stage to nothing.\n\nName as many as the source genuinely raises and no more. There is no target\ncount — a single-subject video has one topic and that is a complete answer.\n\nThese filter the rows every later stage sees. Without them a stage asking for\nobjections gets objections about the wrong subject entirely — the right *kind*\nof row about the wrong *thing*. A topic added speculatively pulls rows that\nwill read as off-subject.\n\n---\n\n**Cite the teardown for every answer** — a timestamp, a line, a described\nscene. An answer you cannot point at is a guess, and a guess here is\ninherited by nine stages.\n\n**Decide nothing about our version.** Not its structure, not its opening, not\nwhere the product goes, not how long it runs. Those are later passes and they\nare better made after the hooks exist. This pass answers one question: whose\nlanguage should the rest of this run be written in.\n\n**The answer is labelled slots, not prose.** Later stages key off these\nlabels the way they already key off `AVATAR:` and `FUNNEL:` — a label\nrenamed, reworded or wrapped in a sentence is a label no stage can find, and\nthe market state silently stops travelling. Print the labels exactly as\nspelled here, one per line, in this order.\n\nAnswer in exactly this shape, nothing else:\n\n```\nAVATAR: <key, or \"none fit\">\nAVATAR WHY: <one line, citing the teardown>\nFUNNEL: prospect | lead | customer | churned\nFUNNEL MEANS: <one line: what this reader knows, and what not to tell them>\nLEAD DESIRE: <the one desire, in the avatar's own words>\nDESIRE TEST: <each of the three dimensions, its verdict, and the row that settles it>\nDESIRE VS SOURCE: <one line: same desire the source runs on, or the one we inject instead>\nAWARENESS: <one of the five level names, spelled as the slice spells it>\nAWARENESS MUST NOT: <that level's must_not, quoted from the slice>\nAWARENESS WHY: <one line, citing the teardown>\nSOPHISTICATION: <one of the five stage names, spelled as the slice spells it>\nSOPHISTICATION LEADS WITH: <what that stage means this asset must lead with>\nSOPHISTICATION WHY: <one line, citing what this market has already been promised>\nBRAND STAGE: <the MARKET STAGE from {position}, spelled as the block spells it>\nSTAGE VS BRAND: agrees | disagrees — <one line; on disagrees, what each rests on>\nLINE CARRIED: yes | no — <one line: does the lead desire serve the LINE>\nSTORY: <a story id from the brand's STORIES, or \"none fit\">\nTELLER: <one teller from that story's Teller line, or \"none\">\nSTORY WHY: <one line: the avatar it fits, and the teardown beat that carries its turn>\nROUTE RECOMMENDED: creator | founder | ai\nROUTE WHY: <one line>\nSUB-AVATAR: <key, or \"none\">\nTOPICS: <comma-separated, roster keys only — as many as the source raises>\nTOPICS WHY: <one line, citing the teardown>\n```\n",
-  "stage4b-hook-v15-damon.md": "Today is: {today}\nHere is real language selected for this stage: {language}\nHere is the replication spec — the construct of this script: {replication_spec}\nHere is the reading of the source: {source_reading}\nHere is the baseline injection: {baseline_injection}\nHere is the teardown record: {teardown_record}\nHere is our language bank: {language_bank}\nHere is our avatar: {avatar}\nHere are the five awareness levels, each with what it must and must not do:\n{awareness_levels}\nHere is our brand's declared position — its LINE, SPINE, MECHANISM, the MARKET STAGE it sells\ninto and what that stage LEADS WITH, as labelled slots: {position}\nHere is our brand's story — who tells our version and what happens to them: its SPINE, TELLERS, STORIES with their beats and who each fits, and, once stage 1b has run, the story and teller this run picked (THIS RUN'S STORY), as labelled slots; `[UNFILLED]` when the brand has no story yet: {story}\n\n*v15 (2026-09-20, Damon: \"tighten up truly unaware-level ads\" — the organic feeds): adds THE UNAWARE ENTRY. When the reading's entry level is `unaware`, the hooks stop naming the problem: all six open on the person, and the problem becomes where the asset ARRIVES, never where it begins. Adds THE PORTRAIT TEST as the sixth list. At every other entry level this prompt behaves exactly as v14.*\n\n*v14 (2026-09-19, Damon: \"storytelling and intent over volume\" — the Conscious Bar swipe): reads `{story}`, the brand's story file beside its position. Adds THE STORY TEST: at least one hook opens the teller's story, in an OPENS IN moment, through the story's ENTRY.*\n\n**The language above is QUERIED, not dumped.** These rows were chosen\nbecause of what they ARE — the kind of thing this stage needs — and ranked by\ntopic fit, how loud the row was, and how well sourced. Each is a real sentence\na real person said, carrying who said it and where it came from.\n\nUse their words. Weigh the provenance: a row flagged `ATTRIBUTION ASSUMED` is\nweaker evidence, and a paid panel is not a customer speaking — never present\neither as something a customer said. If nothing in the rows fits, say so; an\nempty result is a fact about the bank, not a licence to write the sentence\nyourself.\n\n**The bank is evidence, not a script. Interpret it; do not transplant it.**\nEverything in it was true of a particular person, at a particular moment, in a\nparticular conversation — none of it was written for the asset you are making.\nRe-judge every line before using it: does it fit what this is about, who is\nspeaking, and when this runs. **Keep the truth, drop the frame.**\n\n**A month must be the real one.** Today's date is at the top and it is data,\nexactly like the avatar and the banks. The banks record months because real\npeople name them — but they recorded when the speaker spoke, not when this\nruns. Do not inherit theirs; substitute ours. A genuine historical reference — a decade,\nan age, \"when the kids were small\" — is a fixed point and stays.\n\n\nWrite the opening. Six versions — a control and five variations. **All of\nthem ship to test.** The human gate on this pass is approval, not\nselection: nothing is picked, nothing is ranked, and the body written\nafter this pass must carry any hook in the set. The variations are the\ntest cells; the market decides.\n\n**A hook is a line and a scroll stopper, together.** The line is what the speaker\nhears or reads; the scroll stopper is the first-frame visual event that\narrests the thumb before a single word lands. Neither is optional and\nneither is the other's caption — they are the same thought in two\nchannels, show and tell at once. \"Selfie walk-and-talk at the entrance\"\nis a camera setup, not a scroll stopper. A scroll stopper is a thing\n*happening*: an act mid-motion, an object where it should not be, a\ntexture close enough to feel, a before mid-transformation. If the frame\nwould read as ordinary with the sound off, it stops nobody. Take the\nvisual vocabulary from what the source already does where it serves;\nbuild inside the format's world where it does not.\n\n**The spec already did the abstraction — read it, do not redo it.** The\nreplication spec names the opening phase, its duration and its fixed\nbounds in the structural skeleton; the element inventory carries the\nopening element's mandate; the script architecture names the premise and\nits job. **That is the foundational hook, and it is read out of the spec,\ncited, never re-derived from the teardown.** The teardown record is for\nwhat was in frame; the reading supplies the awareness entry. If\nthe spec is missing any of this, that is a stage-2 defect — flag it and\nstop rather than deriving around it.\n\n**The reading names the opening beat by timestamp.** Rewrite that\nbeat and no other. Do not rewrite a later line because it looks more like a\nhook.\n\n**One brief, one discrete problem.** The reading and the baseline\npin the problem this asset solves. Every hook names that problem, in the\navatar's own dominant words for it — the words the research shows the avatar\nuses most, not the category's default synonym. A strong research moment\nthat names a *different* problem is not a hook variation; it is a\ndifferent brief. Write no hook on it — route it to the BRIEF VARIATION\nOPPORTUNITIES section, one line, and move on. Hooks that shift the\nproblem mid-set do not widen the test; they contaminate it.\n\n**THE UNAWARE ENTRY — when the reading's entry level is `unaware`, the rule\nabove changes, and only then.** An unaware reader is not thinking about the\nproblem while he scrolls. A hook that names it, shows it, or shows the tools\nof its category is addressed to somebody who is not there yet — he scrolls\npast it as an ad for a thing he does not shop for. So at this entry level:\n\n- **The problem still pins the brief — as the DESTINATION.** It is where the\n  body arrives, a rung at a time. It is never in the opening. Do not name it,\n  do not show it, do not point the camera at the part of the body or the\n  room where it lives.\n- **Every one of the six openings is a portrait.** It enters on the person:\n  something he does, says, avoids, laughs at, or is proud of — a habit, a\n  place, a ritual, a running joke among his people — that he would recognise\n  as himself in under a second, with nothing of ours in frame. The source is\n  entertainment he already watches; the opening belongs to THAT world, and\n  the teardown record's opening beat tells you what world it is.\n- **What may not be in the line OR the frame of an opening:** the symptom,\n  the word for it, a close-up of it, the products or tools of the category\n  (ours or anyone's), a before/after, a count of things tried, a complaint\n  about results. Any of these makes it a problem-aware hook wearing an\n  unaware label.\n- **\"Every hook traces to a verbatim\" still holds — pull from different\n  rows.** Use what the avatar says about his life, his people, his routines\n  and how he carries himself. A row that is about the problem is not\n  available to an opening at this level; if the bank offers nothing else, say\n  so — that is a finding about the bank.\n- **The variations still swing** — on which part of his life each one enters\n  through. Five portraits of the same man from five doors.\n\n**Version 0 is the straight swipe, and it is the control.**\n\nTake the source's opening beat exactly as it is and change only the words\nthat must change — the brand, the product, the category. Nothing else.\nSame sentence, same rhythm, same length, same punctuation. Its scroll\nstopper is the source's own first frame, held.\n\nThis is the version that already performed, wearing our name. Every variation\nis a bet against it in the same test, and if none of them beat it that is\na real finding rather than a failure. **Label it clearly as the control\nand never improve it.**\n\nThen write five variations. The rest of this prompt is about those.\n\nFive rules govern what replaces the source's words:\n\n**Every hook traces to a verbatim.** Pull the moment from the language bank\nand the avatar — a behaviour, a time of day, an object, something done\nwith the hands. The strongest hooks name a private moment the avatar thought nobody\nhad noticed. A hook that cannot cite its source is invented and gets cut,\nhowever well it reads. Reaching for a phrase that is not in the bank is the\nsignal you are writing at the avatar instead of from them.\n\n**Finish a sentence the avatar has already started.** The bank holds\nhalf-phrases they use about themselves. A line lands when it completes one they recognise\nrather than introducing a new one.\n\n**The line and the scroll stopper must be about the same thing.** A\nstrong line over an unrelated first frame kills the script in the first\nsecond — the words say one thing, the picture says another, and the viewer\nresolves it by scrolling. The stopper shows the thing the line names,\nalready happening.\n\n**A variation changes what happens, not which words describe it.** Five\nvariations means five different things occurring in front of the camera, and\nfive different sentences spoken — not one situation described five ways.\nSwapping an adjective, adding a clause or moving a word is padding. This\napplies to the control too: a variation that opens like version 0 is not a\nvariation.\n\n**You know who this is for. Use it.** Triage named the avatar, the funnel and\nthe subject; the bank holds what that person actually says. An opening that\nwould work for anyone in this category has ignored all of it. The specific,\nslightly uncomfortable, true thing is what stops a scroll — the safe, general\nthing is what every competitor is already running.\n\n**Dramatize.** The strongest opening is a real moment at its sharpest, not a\nstatement about a problem. Something done, hidden, caught, or said out loud\nthat people usually keep quiet. Discreet in what it claims; dramatic in what\nit shows. A moment can be shown; a category cannot.\n\n**The opening's formation is free; its material is not.** It may be any\nformation at all — a condition stated, a behaviour shown, a question, a claim,\na fragment, a refusal, something with no name. What governs is not the shape\nbut where it comes from: **every opening is built from the language rows and\nfrom the script's own context.** The reading tells you what the source's\nopening was doing, and that is context to work from, never a template to copy\n— matching its formation is one option among many, not the requirement.\n\nWhat stays banned is the ad-shaped template the source did NOT use: \"If you're struggling\nwith…\", \"If you're tired of…\", \"If you've ever…\", \"POV:\", \"Nobody talks\nabout…\", \"Here's why…\", \"The one thing…\", \"Stop scrolling if…\". They signal\nan ad in the first two words and none of them is how a person starts a\nsentence. If the source opened on one of them, you may keep it — that is the\nsource's move and version 0 already carries it. Otherwise never introduce\none. If a hook could be reused verbatim by a different brand in a different\ncategory, it is a template — that is the real test, not which formation you\nchose. **Print before writing:** what the source's opening was doing, in one\nphrase, as the context you are working from.\n\n**Match the speaker's own voice.** Sentence length, vocabulary, rhythm, and\nany quirks the teardown record shows. If the speaker drops articles, the hook\ndrops articles. Where the source's shape leaves the choice open, a behaviour\nbeats a condition — a behaviour is how the avatar talks about their life, a\ncondition is how a brand talks about them.\nEvery hook must also stay inside the format's own register as the spec\nrecords it — the body that follows is shared, so a hook whose register the\nbody could not follow is out of the set, however strong the line.\n\nWrite each hook in the format's own currency, per the reading: a\nspoken line if the format speaks, a card if it does not, a frame if it has\nneither.\n\nGive me these four sections.\n\n**1. THE FOUNDATIONAL HOOK**\n\nRead from the spec, with citations: the opening phase and its bounds\n(structural skeleton) · the opening element's mandate (element\ninventory) · the premise and its job (script architecture) · the\nawareness entry (the reading). Nothing here is your derivation.\n\n**2. VERSION 0 — THE CONTROL**\n\nThe source's opening, swiped straight, with only brand words changed. Show\nthe source line and ours side by side so the swap is visible, then its\nscroll stopper — the source's own first frame, held. No citation\nneeded — it is the source's own line.\n\n**3. THE FIVE VARIATIONS**\n\nFor each: the line · **the scroll stopper — what is happening in frame\none, concrete enough to shoot from the sentence alone** · the verbatim it\ncame from **quoted inside its original full sentence**, with its source ·\nthe axis it moves on against the foundational hook · what it assumes\nabout the speaker.\n\nQuoting the whole original sentence is not decoration. A fragment can be\ncited accurately and still be used to mean something the customer never\nsaid — showing the sentence it lived in makes that visible on the page.\n\nThat last one matters. If the speaker cannot truthfully say it, the hook is\nunusable no matter how good it is. Flag it plainly.\n\n**4. BRIEF VARIATION OPPORTUNITIES**\n\nThe strong seams you did NOT hook because they name a different problem\nthan this brief's. One line each: the seam · its verbatim · why it is a\ndifferent brief rather than a hook. No script lines, no development —\nthese are notes for a future teardown or research pass, not work product.\nIf there were none, say none.\n\nWrite no other part of the script.\n\n---\n\n## THE VARIATIONS ARE REAL SWINGS\n\nA variation is a different swing at the same job — not the control with one\nword moved. Five near-identical lines are one hook wearing five names, and the\nbuy reads them as a result.\n\n**Each variation enters on something different.** A different moment, a\ndifferent behaviour, a different verbatim seam. Not a swapped noun over the\nsame sentence. Across the five, five genuinely different ways in.\n\n**What must NOT move**, because this is what \"fits the format\" means:\n\n- **The format's currency.** A spoken line where the format speaks, a card\n  where it does not, a frame where it has neither — per the reading.\n- **The format's register and length**, as the spec records them. The body\n  that follows is shared, so an opening the body could not follow is out of\n  the set however strong the line.\n**The formation is not on that list.** Each variation may take whatever\nformation its material calls for — they do not have to match the source's, and\nthey do not have to match each other's. What every one of them must be is\n**sourced**: built from the language rows and from what the script itself\ngives you, never invented to fill a shape.\n\nEverything else is fair game: the formation, the object, the moment, the\nemotional entry, the person's stance, what is in frame, how much is said out\nloud.\n\n### When the source's opening is a device\n\nSometimes the stop is carried by a *device* rather than by what is said — a\ncard, a two-word construction, a framing. The device is the asset, and\nabandoning it entirely loses the thing that worked.\n\n**One variation may hold the device exactly** and swing only inside it. One,\nnot five. The other four swing wider, on different entries, while still doing\nwhat the opening does. That keeps the device under test without spending the\nwhole set on it.\n\n### Following the source\n\nOn an organic source especially: hold the source's own structure until the\npoint where the product has to enter. The opening is inherited, not designed.\nWhat the source did in its first two seconds to make someone stop is the\nasset — the variations exist to find which way into it performs, not to\nreplace it.\n\n---\n\n## EXAMPLES ARE EXAMPLES\n\nEvery specific in this prompt — an age, a gender, a garment, a body part, a\nproduct category, a named person — is **illustrative only**. None of it\ndescribes the asset in front of you. Read an example for the shape of the rule,\nthen apply the rule to what you actually have.\n\nThe subject may be any age, any gender, anywhere, selling anything. This chain\nruns the same on one person on a beach, someone talking to camera in a parked\ncar, two people in a kitchen, or a pair of hands on a countertop. Nothing in\nthis prompt assumes which.\n\n**Who is on camera comes from the teardown record, never from this prompt.** If\nthe teardown says a person in their fifties in a parked car, that is the\nsubject — every rule below applies to them unchanged, and any pronoun in an\nexample above is about that example, not about the person in front of you.\n\n**And the variables are agnostic too.** An example may be reworked freely — it\nis illustrative and always was. But nothing that gets filled in at run time\nmay name a brand, a product or a category: brand detail arrives only through\nthe variables above, resolved from that brand's own folder. A rule that\ncannot be written without naming the brand belongs in the brand folder, not\nin this prompt. This machine is meant to run on every brand we own; anything\nthat only makes sense for one of them does not scale.\n\n---\n\n## Before you hand this over\n\nRun these and **print the result of each**. A check whose result is not\nwritten down did not happen, and a principle in a bullet list does not bind —\nthis is the same rule stated as work.\n\n**Fix first, in the copy itself, then report.** You cannot go back and edit\nwhat you already wrote, so what you print above must already be corrected. A\nfix described under an uncorrected line leaves the wrong words where people\nread from.\n\n**1 · TIME.** Name every month, season and holiday you wrote. Beside each,\nconfirm it agrees with the date at the top. A month that is not the current\none is a defect unless it is plainly historical — substitute the real one and\nreport it fixed. \"The bank said July\" is not a defence.\n\n**2 · SOURCE.** For every concrete specific — an age, a number, a duration, a\nnamed behaviour, a quoted line — name the file it came from **and tag what\nkind of language it is**: `VERBATIM` (a real person's recorded words) ·\n`AVATAR` (a documented behaviour in the profile's phrasing) · `ANGLE` (a line\na marketer drafted) · `FILE` (a product or offer fact). These files record the\ndifference deliberately; flattening it presents a copywriter's invention as\nsomething a customer said. Anything untraceable is removed or rewritten.\n\nThen one line: how many specifics are `VERBATIM`, and which lines carry\n`ANGLE` language. A piece resting mostly on `ANGLE` is not disqualified — it\nis a piece whose realness has not been demonstrated, and whoever reads it\nshould be told that plainly.\n\n---\n\n## Before you hand these over — print this\n\nFour checks. Run them, print the result of each, and fix what fails before\nyou return anything. A rule stated in prose does not bind.\n\n**THE FOUR-WORD TEST.** List the first four words of all six openings, one per\nline. If any two match, you wrote one opening and padded it: replace the\nduplicate, then print the corrected list. The single exception is the one\nvariation allowed to hold a device — it may share its opening words with the\ncontrol, and nothing else may.\n\n**THE ENTRY TEST.** For each of the five, name in a few words what it enters\non — the moment, behaviour or verbatim it is built from. If any two share an\nentry, one of them is not a variation: replace it and print the corrected\nlist.\n\n**THE PHOTOGRAPH TEST.** For each variation, name in five words the single\nimage someone sees at half a second — the thing in frame before a word is\nread. If any two would produce the same photograph, they are the same opening\nhowever differently they are worded. Replace it.\n\n**THE RUNG TEST.** The reading names the entry level and quotes that level's\n`must_not`. Copy that quoted must-not here, then take all six openings —\ncontrol included — one at a time, and say whether it breaks it. **A hook that\nnames the price, the product or the direct claim earlier than its entry level\nallows is a defect, not a style choice**, and it is the failure this test\nexists for: the line reads perfectly well and is simply invisible to the\nreader it was written for.\n\nTwo things this test is not. It is not licence to rewrite the control — if\nversion 0 breaks the must-not, that is a finding about the source's own\nentry level against ours, printed as a flag and left standing. And it is not\na ban on the words themselves later in the asset; it is about where the\nargument is allowed to BEGIN.\n\nAny variation that breaks its entry level's must-not is rewritten to enter a\nrung lower and printed again, corrected. Print the must-not, the six\nverdicts, and every rewrite.\n\nPrint all four lists. A check whose result is not written down did not happen.\n\n**THE PORTRAIT TEST — the sixth list, printed only when the entry level is\n`unaware`.** For each of the six openings, control included, fill three slots:\n`IN FRAME:` the single thing the camera is on · `IN THE LINE:` the noun the\nsentence is about · `VERDICT:` portrait | symptom | category | product. Any\nopening whose verdict is not `portrait` is rewritten to enter on the person\nand printed again, corrected — the control is the one exception: it stays as\nthe source had it and carries the flag. An opening that shows the symptom\n\"because it is relatable\" is the exact failure this test exists for.\n\n**THE STAGE TEST — the fifth list.** The rung test says where the argument may\n*begin*; this one says what it must *lead with*. `{position}` names the\n`MARKET STAGE` and `LEADS WITH`. Copy both here. Then take all six openings,\ncontrol included, and say in a few words what each one leads with — a plain\nclaim, an enlarged claim, a mechanism, an enlarged mechanism, or identification\nalone — and whether that is what the stage calls for. **An opening that leads\nwith something this market has already discounted is a hook the reader has\nalready scrolled past**, however well it reads: at *claims exhausted* a plain\npromise is invisible; at *exhausted field* a mechanism is one more pitch.\n\nThe control is exempt from rewriting — if version 0 fails, print it as a\nflag about the source's market against ours and leave it standing. A variation\nthat fails is rewritten to lead with what `LEADS WITH` names, built from the\nsame bank rows, and printed again corrected. A hook does not have to *say* the\nmechanism to lead with it — a scroll stopper that shows the how counts; say\nwhich channel carries it. Where the reader's dominant word for the problem\nis in `PROBLEM WORD`, every hook uses it; a `NEVER` word in any opening is a\ndefect, fixed and reported.\n\nPrint the stage, its leads-with, the six verdicts, and every rewrite.\n\n**THE STORY TEST.** `{story}` names this run's story and its teller. At least one\nhook in the set is **the first line of that story, not the first line of an ad**:\nthe teller speaking, opened the way the story's `ENTRY` says, landing in one of the\n`OPENS IN` moments, in the teller's register from `VOICE`. It still passes every\nother test above. Mark it `STORY OPENER` in the set. If `{story}` is `[UNFILLED]` or\nno story was picked, print `STORY TEST: no story` and skip it.\n"
+  "feed-sift-v3.md": "# Feed sift — v3\n\n**Guard, read first.** Judge only the posts listed below, only from what each\nrow actually says. You are reading a caption, hashtags and numbers — not the\nvideo. Do not invent what a video shows. When the row doesn't tell you, say\n`unread`. Nothing in this prompt is an example to copy.\n\nA scraper pulled these posts for a standing feed. Sort each one into a LANE.\nYou do not decide what is kept — the lane does.\n\n## THE LANES\n**entertainment** — the priority. Watched purely because it entertains: skits,\nmemes, edits, stunts, fails, reactions, storytimes, chaos, oddly-satisfying,\nbrain rot. The stuff that gets sent to a friend. This is what people open the\napp for, before they are aware of any problem.\nAn empty or near-empty caption with big numbers is normal here — that alone\nnever moves a post out of this lane; mark WHAT as `unread`.\n\n**educational** — a real person teaching or explaining with nothing for sale:\ntips, tutorials, routines, how-to, explainers, honest reviews, \"here's what I\nlearned\". What someone watches once they have noticed a problem and gone\nlooking.\n\n**selling** — anything with something to sell: a product pitch, shop link,\ndiscount, brand account, affiliate or \"obsessed with this product\" post,\ncreators selling presets/courses/apps. Teaching that ends in a pitch is\nselling.\n\n**junk** — news reports, giveaways, reposted TV/film clips, spam, and anything\nthe row gives no way to place.\n\n## WHOSE SCROLL THIS IS\n{ask}\n\n## This feed's own notes on what belongs\n{keep_rule}\n\n## This feed's own notes on the lookalike junk\n{drop_rule}\n\n## THE FORMAT BANK — the only format names that exist\n{formats}\n\n## THE POSTS\n{posts}\n\n## Return — JSON only: one object per post, same order, these slots\n```json\n[{\"N\": 1,\n  \"LANGUAGE\": \"the caption's language as a 2-letter code; \\\"none\\\" when there are no real words\",\n  \"LANE\": \"entertainment | educational | selling | junk\",\n  \"KIND\": \"entertainment: skit | meme | edit | stunt | fail | reaction | storytime | satisfying | chaos | other · educational: tutorial | tips | routine | explainer | review · else: pitch | brand | news | other\",\n  \"WHAT\": \"under 14 words — what this post is, in plain words, from the caption; or \\\"unread\\\"\",\n  \"FORMAT\": \"an id from the format bank ONLY if the caption makes it plain; otherwise \\\"unread\\\"\",\n  \"WHY\": \"under 14 words — why it sits in that lane\"}]\n```\n"
  },
  "formats": [
   {
@@ -5295,7 +7367,8 @@
    ],
    "text_behaviour": "product names appear as plain labels the moment each is used and disappear when it is done — never a claim, never a sentence; the operator's handle and location pinned throughout; a discount code sometimes lands once in the middle, never at the open",
    "camera": "handheld, vertical, third-person over the operator's shoulder or beside the chair; alternating close-up on hands and product with medium on the client; real shop light, no cuts to the operator talking to camera",
-   "status": "proposed",
+   "status": "draft",
+   "state": "proposed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "line": "full service to gifting, every product captioned",
@@ -5319,7 +7392,8 @@
    ],
    "text_behaviour": "burned-in rolling captions on every line of speech, question and answer both, in the creator's own rough typing; no headline, no pinned claim — the captions are transcription, not copy",
    "camera": "handheld, vertical, medium on the stranger with the creator's shoulder or mic in frame; wide when walking up so the approach reads as real; daylight public space, no lighting, ambient sound",
-   "status": "proposed",
+   "status": "draft",
+   "state": "proposed",
    "text_mechanic": "rolling-speech",
    "proof": {
     "line": "five approaches cut tight, question repeated",
@@ -5342,7 +7416,8 @@
    ],
    "text_behaviour": "none at any beat — no captions, no labels, no address to camera; the post caption carries everything",
    "camera": "one location, tightening monotonically across the runtime from wide to macro; no cutaway, no second location, no talking head",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/Db4Fxb5JO2A/",
@@ -5367,7 +7442,8 @@
    ],
    "text_behaviour": "a fixed headline plus a grid of labels — ingredients on one axis, problems on the other — set on frame one and never changed for the rest of the runtime",
    "camera": "absolutely locked; a 3D cross-section or a single unmoving real setup, no push, no pan, no cut for the whole runtime",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "unclassified",
    "proof": {
     "url": "https://www.instagram.com/p/DUqpkKUDQSH/",
@@ -5392,7 +7468,8 @@
    ],
    "text_behaviour": "one line, top third, same words start to finish, casual + an emoji or two; some instances land the line once on the opening beat and drop it, which does not break the format — what matters is that the text never changes and never argues",
    "camera": "handheld phone, vertical, subject-height, natural window light, no cuts to face",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "hands demonstrating, one take",
    "text_mechanic": "one-pinned-line",
@@ -5419,7 +7496,8 @@
    ],
    "text_behaviour": "none at any beat — no hook line, no labels, no captions; the post caption carries anything that has to be said",
    "camera": "close handheld at the reclined subject's own level or straight over the hands, reframing continuously with the work, no cuts away and no tripod",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DVReiWEjyjR/",
@@ -5444,7 +7522,8 @@
    ],
    "text_behaviour": "one line — usually a 'pov:' premise, often trailing off in an ellipsis — pinned unchanged in the same spot all runtime, or landed once on the opening beat and dropped; it never escalates and is never answered in words",
    "camera": "no fixed rule and that is the point — a locked wide interior, a floor-level angle, or a freely roaming handheld covering a chain of gags; whatever holds the performance",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "the body performs the line",
    "text_mechanic": "one-pinned-line",
@@ -5471,7 +7550,8 @@
    ],
    "text_behaviour": "none on screen at any beat — the post caption is the only text anywhere in the piece",
    "camera": "one distant or held vantage for the whole runtime, no cutaway, no reframe, no second angle; at most one scale change at the very open",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DU3QWSpjuUk/",
@@ -5496,7 +7576,8 @@
    ],
    "text_behaviour": "two lines pinned all runtime: the quoted objection in quotes, then 'Us:' + emoji answer",
    "camera": "handheld, close orbit of the collection, natural interior light",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "url": "https://www.instagram.com/p/DYwAweegzm8/",
@@ -5522,7 +7603,8 @@
    ],
    "text_behaviour": "one word per beat, centre-low, all caps or lowercase consistently, one word in a colour for emphasis; the words read as a sentence in order and are still unfinished at the last sampled beat",
    "camera": "zero camera movement — usually locked overhead on a reclined or seated subject, sometimes a locked frontal frame with the problem held at the edge of shot; even indoor light",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "word-per-beat",
    "differs_by": "a procedure on the problem area",
    "text_mechanic": "word-per-beat",
@@ -5549,7 +7631,8 @@
    ],
    "text_behaviour": "none on screen at any beat — the platform caption carries the quoted line of dialogue as the punchline",
    "camera": "handheld, tight on the character, shot-reverse to a reacting cast where there is one, travelling wides where the character moves between locations",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DWU3zlJATdg/",
@@ -5574,7 +7657,8 @@
    ],
    "text_behaviour": "act one: 'Don't show this to a {identity}' + soft emoji · act two: 'Share this with a {identity}' — the switch lands on the cut",
    "camera": "act one handheld daylight; act two locked or slow drift, exposure for the glow, everything else black",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "unclassified",
    "proof": {
     "url": "https://www.instagram.com/p/DUwh0jWkfYu/",
@@ -5599,7 +7683,8 @@
    ],
    "text_behaviour": "none, or a single small caption; a running spoken-caption track is tolerated, but nothing is ever pinned as a promise — the visual is the hook and text would steal from it",
    "camera": "handheld, close on the contact point, daylight or plain interior light, cuts on each surface change",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DZMGaGUhibn/",
@@ -5624,7 +7709,8 @@
    ],
    "text_behaviour": "small quoted text, same position every beat, changing length each time — usually shrinking to a trail-off, sometimes lengthening into insistence; the change itself is the joke",
    "camera": "tripod-locked wide, identical framing every beat, daylight through a window, never moves",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DT-wxYOk51n/",
@@ -5649,7 +7735,8 @@
    ],
    "text_behaviour": "none anywhere — at most a fixed product disclaimer; no hook line, no labels, no captions in either act",
    "camera": "act one handheld and candid in the real venue with bystanders in shot; act two tight and wordless on the contact point, cutting on each new body or zone",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/Dbmik5RNWQV/",
@@ -5674,7 +7761,8 @@
    ],
    "text_behaviour": "one headline in an identical position (often a white box, top third) unchanged from first frame to last, plus burned-in rolling speech captions that change every beat below it",
    "camera": "one locked or arm's-length frame on the speaker, same seat and same room throughout; no cuts, no cutaway, no second angle",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "rolling-speech",
    "proof": {
     "url": "https://www.instagram.com/p/DZN5Njzo-Yh/",
@@ -5699,7 +7787,8 @@
    ],
    "text_behaviour": "none that does any persuasive work — at most a fixed legal disclaimer sitting in the same place all runtime, which the viewer reads past",
    "camera": "the same shot composed identically in each world, cut hard on every location change; no establishing shots and no transitions",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DbsTcDpC8bT/",
@@ -5724,7 +7813,8 @@
    ],
    "text_behaviour": "a year or era stamp in the identical top position at every beat, plus a 'Vs...' pivot card; the stamps are labels, never arguments, and the last one is held for the rest of the runtime",
    "camera": "no continuity — each rung is separately sourced footage in its own room with its own camera; cuts land on the stamp change",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DU4KVK9DHGN/",
@@ -5749,7 +7839,8 @@
    ],
    "text_behaviour": "zero on-screen text, or a single line pinned unchanged for the entire runtime; nothing changes and nothing escalates",
    "camera": "absolutely locked extreme macro on one site; no reframe, no cut, no pull-back for the whole runtime",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "url": "https://www.instagram.com/p/DbQ0K0EyktH/",
@@ -5774,7 +7865,8 @@
    ],
    "text_behaviour": "zero on-screen text, or one short pinned line or two-word label that never changes and often drops before the hold begins",
    "camera": "tripod-locked, square-on, zero camera movement and zero reframing; identical framing from first frame to last",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "url": "https://www.instagram.com/p/DbsNoqUN04F/",
@@ -5800,7 +7892,8 @@
    ],
    "text_behaviour": "one bold word per beat, centre frame, building a single sentence in order; no other text at any point",
    "camera": "fully rendered — the camera reframes between every beat, moving between angles and travelling into the body; never locked, no hands, no product, no room",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "word-per-beat",
    "differs_by": "an internal or hidden reveal",
    "text_mechanic": "word-per-beat",
@@ -5827,7 +7920,8 @@
    ],
    "text_behaviour": "one line (often two, quoted) pinned unchanged in the same spot for the entire runtime, ending on an ellipsis, an open colon or a mid-word cut; it is never completed in words at any point",
    "camera": "one unbroken take — locked, sideline or handheld close — that holds the answer; no cut to a talking head and no second source",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "wordless footage delivers the answer",
    "text_mechanic": "one-pinned-line",
@@ -5854,7 +7948,8 @@
    ],
    "text_behaviour": "one claim stated once and never changed — either a meme caption pinned all runtime or nothing on screen at all with the claim in the post caption; no per-beat captions",
    "camera": "no continuity between beats: separately sourced or separately shot close shots, cut hard on each new instance, no shared location and no establishing shot",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DZLqNIKiWTA/",
@@ -5879,7 +7974,8 @@
    ],
    "text_behaviour": "a flat label or set of labels pinned over the first half only, dropping out at the turn and never replaced; zero text over the payoff and the closing reaction",
    "camera": "handheld on the demonstration for act one; hard cut to a locked square-on selfie frame for the closing reaction, which does not move",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "url": "https://www.instagram.com/p/DSl0geBjjrg/",
@@ -5904,7 +8000,8 @@
    ],
    "text_behaviour": "one big label per beat naming a single item, in the identical position every time; the label changes on every cut and nothing is ever pinned across beats",
    "camera": "one unchanging frame or repeated composite unit — the same corridor, the same shelf angle, the same two-shot — reused identically for every item on the list",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/Da5j02xMfhN/",
@@ -5929,7 +8026,8 @@
    ],
    "text_behaviour": "one lowercase or meme line, often unfinished, pinned top-centre and unchanged for the entire runtime; nothing else on screen",
    "camera": "handheld phone, candid, at a distance that reads as caught rather than staged; cuts on each new sighting, no setup shots",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "the product sighted in public",
    "text_mechanic": "one-pinned-line",
@@ -5956,7 +8054,8 @@
    ],
    "text_behaviour": "one day or interval stamp per beat in the identical position ('Day 1' → 'Day 14' → 'Day 30' → 'Day 90'); often a pinned POV promise on the opening beat; the stamp is an index, never an argument",
    "camera": "one repeated framing — a selfie front camera or a fixed high angle — identical distance and angle at every stamp, same room, same light",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DU_S_B9ilq2/",
@@ -5982,7 +8081,8 @@
    ],
    "text_behaviour": "one caption box in the same position all runtime, its words changing every beat as a continuous narration; each card cut off mid-sentence, often with one word highlighted; nothing is ever pinned unchanged",
    "camera": "no camera of its own for most of the runtime — full-frame borrowed sources cut against a fixed studio or desk plate; the presenter panel never moves",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DSSeEt3ETo3/",
@@ -6007,7 +8107,8 @@
    ],
    "text_behaviour": "one line on the opening beat — pinned unchanged for the runtime, or dropped after the first beat and never replaced; no per-beat captions, no labels",
    "camera": "one fixed front camera on the operator's own face or body, same distance and angle all runtime; no cutaway, no second location",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "front camera, the operator is the demo",
    "text_mechanic": "one-pinned-line",
@@ -6034,7 +8135,8 @@
    ],
    "text_behaviour": "one headline pinned across the seam for the whole runtime, or a caption per beat running correction → name → mechanism → verdict; the text is always about the evidence in the other band",
    "camera": "locked — neither band moves. The evidence band is a held clinical close-up, an instrument view or a sourced clip; the presenter band is a fixed desk or cut-out over black",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/Dbbii2fPY2i/",
@@ -6060,7 +8162,8 @@
    ],
    "text_behaviour": "permanent overlay furniture in fixed slots — the full numbered list with only the current item struck, a hold-time badge, a labelled diagram and a move-name banner — with only the named item changing per beat",
    "camera": "one room, a fixed low or wide angle held for the whole of each move, repositioned slightly between moves and never during one; the demonstrator in full frame with the top of the frame left empty for the overlay",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DTmhb8vk2Uh/",
@@ -6085,7 +8188,8 @@
    ],
    "text_behaviour": "the narrator's own speech transcribed — two-to-four-word karaoke cards with the spoken word highlighted, or one plain annotation per beat — bracketing the runtime and absent entirely through the application; nothing is ever pinned",
    "camera": "one fixed camera on the narrator's own face or body for the whole runtime, same distance and angle throughout, no cutaway and no second location; handheld drift is allowed, reframing is not",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DSAsIODDSf1/",
@@ -6110,7 +8214,8 @@
    ],
    "text_behaviour": "one pinned punchline caption sitting across the seam for the whole runtime, or the borrowed clip's own burned-in caption; the reactor adds no text of their own",
    "camera": "a locked vertical split or three-band composite that never changes — the reactor's webcam frame is static, the borrowed clip plays inside its band with whatever camera it came with",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "rolling-speech",
    "proof": {
     "url": "https://www.instagram.com/p/DVRfuQLkXZN/",
@@ -6135,7 +8240,8 @@
    ],
    "text_behaviour": "all the text lives in act one — a POV line, a data card, an argument; act two carries none at all, and the switch lands on the cut",
    "camera": "act one is ugly and handheld — phone selfie, cut-out composite, real public location; act two is polished and stable — clean room, considered light, no visible phone look",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "unclassified",
    "proof": {
     "url": "https://www.instagram.com/p/DTQjYVVAZuk/",
@@ -6160,7 +8266,8 @@
    ],
    "text_behaviour": "none at any beat — no captions, no labels, no hook line",
    "camera": "arm's-length POV from the camera-holder, no creator face; handheld, follows the stranger through the whole exchange with no cut away",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DcNDZ2vT-L1/",
@@ -6185,7 +8292,8 @@
    ],
    "text_behaviour": "one caption, usually two lines ending on an open colon, word-for-word identical in the same position at every single beat; never completed, never escalated",
    "camera": "two visibly different sources alternating — the poster's own plain full-frame shot against letterboxed or differently-graded borrowed footage; a cross-dissolve at the seam is common",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "alternates with a second source",
    "text_mechanic": "caption-per-beat",
@@ -6212,7 +8320,8 @@
    ],
    "text_behaviour": "running speech subtitles, one clause per beat in the same position, opening mid-sentence; the terminal beats carry the comment-to-get gate",
    "camera": "one locked frame on the practitioner performing to camera for the body of the runtime, with brief hand-offs to a render or inset; back to the locked frame for the close",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/Db5lgk5BjRF/",
@@ -6237,7 +8346,8 @@
    ],
    "text_behaviour": "zero on-screen text at any beat — the post caption credits the borrowed clip and carries anything else that needs saying",
    "camera": "act one is whatever the borrowed footage was shot on, full-frame and uncut; act two is a handheld selfie in a bare room, no set, no props",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "unclassified",
    "proof": {
     "url": "https://www.instagram.com/p/DYU2tHsOcot/",
@@ -6263,7 +8373,8 @@
    ],
    "text_behaviour": "the opening carries a card, a year-stamp pair or a composited before/after panel that is gone after the first beats; everything after it is a running claim caption, one clause per beat in a fixed position, never pinned and never repeated",
    "camera": "two visibly different halves — the transformation half is phone footage in real rooms with no continuity between the two states, and the mechanism half is rendered animation or a pasted labelled diagram with no camera of its own",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DZzgwi7NHoc/",
@@ -6289,7 +8400,8 @@
    ],
    "text_behaviour": "burned-in word-synced speech captions, centre-low, running continuously under every angle with the currently spoken words highlighted; nothing pinned and nothing authored",
    "camera": "one continuous live take covered from four or more fixed positions — tight close, full-stage wide, audience reverse, from the back of the room — each near-locked; the edit changes angle rather than the camera moving",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "subtitled-monologue",
    "differs_by": "multicam with crowd cutaways",
    "text_mechanic": "rolling-speech",
@@ -6317,7 +8429,8 @@
    ],
    "text_behaviour": "one short clause per beat in the identical position, replaced on every cut and reading in order as a single sentence; no pinned line, no labels and no headline",
    "camera": "no single camera behaviour — the format cuts between four shot types, one per beat: a real body at head height, a hands-only macro over a dark surface, a macro of the product itself, and a rendered cutaway; each shot locked or near-locked with no move inside it",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/DUSce_UAa53/",
@@ -6342,7 +8455,8 @@
    ],
    "text_behaviour": "one word of the voiceover per beat, centred, heavy caps with a hard outline, swapping on every stressed word and never completing the sentence on screen; no labels and no pinned line",
    "camera": "fully rendered with no real footage anywhere — the camera reframes between beats from wide to macro and moves between worlds; no hands, no room, no locked frame",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "caption-per-beat",
    "proof": {
     "url": "https://www.instagram.com/p/Db8TkobqDiX/",
@@ -6367,7 +8481,8 @@
    ],
    "text_behaviour": "rolling burned-in speech captions, one clause per beat in the identical position, always cut off mid-sentence, often with the spoken word highlighted; nothing is pinned across the runtime — at most one hook card on the opening beat that is gone from every beat after it",
    "camera": "one speaker in one place all runtime — either absolutely locked with a pixel-identical background every beat, or cut between two or three fixed angles of the same setup; no cutaway, no product, no second location, no camera move inside a beat",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "subtitled-monologue",
    "differs_by": "angle changes carry the pace",
    "text_mechanic": "rolling-speech",
@@ -6394,7 +8509,8 @@
    ],
    "text_behaviour": "one short line pinned in the identical position from first frame to last, never changed and never argued; everything else that gets read belongs to the document inside the frame",
    "camera": "absolutely locked for the whole runtime — same framing, same background, same light — with the subject filling one side of frame and the screen the other; no cut, no reframe, no cutaway",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "one-pinned-line",
    "proof": {
     "url": "https://www.instagram.com/p/Db4M9M8iI_B/",
@@ -6419,7 +8535,8 @@
    ],
    "text_behaviour": "one hook line on the opening beat only — a PSA, a warning, a promise — dropped and never replaced or restated; most beats carry no text at all",
    "camera": "handheld on the speaker throughout with the framing jumping freely between beats — close, wide, low, a different corner of the same room, or a setting that travels behind them; no cutaway, no product, no second source",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "no-text",
    "proof": {
     "url": "https://www.instagram.com/p/DWhoYZrknKg/",
@@ -6444,7 +8561,8 @@
    ],
    "text_behaviour": "a hook card in the top third on the opening beat only, dropped and never brought back; every beat after it carries one clause of speech caption in the same position, each cut off mid-sentence",
    "camera": "one selfie beat at arm's length, then a phone handheld over a real monitor at an off-axis angle for the rest of the runtime, framed tighter beat by beat; no screen capture, no cutaway",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "rolling-speech",
    "proof": {
     "url": "https://www.instagram.com/p/DUoTdgPEq9Z/",
@@ -6470,7 +8588,8 @@
    ],
    "text_behaviour": "one word or a two-word fragment centred at mid-frame, replaced on every cut, building a single narration that is never on screen whole and never completes",
    "camera": "no relationship between beats — each world is its own self-contained shot, rendered or filmed, with its own light and framing; no transitions, no establishing shots, no locked frame",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "word-per-beat",
    "differs_by": "a chain of unrelated scenes",
    "text_mechanic": "word-per-beat",
@@ -6497,7 +8616,8 @@
    ],
    "text_behaviour": "one line pinned word-for-word in the identical position on every single beat including the final cut, ending on an open colon and never completed in words",
    "camera": "whatever camera the borrowed footage came with, held full-frame and uncut for most of the runtime, then a hard cut to a fixed front-camera close in an ordinary room that does not move",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "family": "pinned-line",
    "differs_by": "borrowed spectacle, ends on a face",
    "text_mechanic": "one-pinned-line",
@@ -6524,7 +8644,8 @@
    ],
    "text_behaviour": "one small logo lockup on the opening beat only — the brand over a short tagline — and no on-screen text at any point after it",
    "camera": "roaming handheld coverage of one real event from five or six visibly different setups at head height, pushed in among the bodies; no locked frame, no talking head, no establishing shot",
-   "status": "unreviewed",
+   "status": "draft",
+   "state": "unreviewed",
    "text_mechanic": "unclassified",
    "proof": {
     "url": "https://www.instagram.com/p/DVX3nGPEccf/",
@@ -6551,7 +8672,8 @@
    "mood": "confident",
    "energy": "high",
    "use": "Flex, confidence, or bold statement content",
-   "why": "ILLIT (k-pop) + 2Pac mashup; trending remix format"
+   "why": "ILLIT (k-pop) + 2Pac mashup; trending remix format",
+   "audio": "sounds/snd-7664281509390813953.mp3"
   },
   {
    "title": "original sound",
@@ -6567,7 +8689,8 @@
    "mood": "unknown",
    "energy": "unknown",
    "use": "Unknown without hearing the sound",
-   "why": "Cannot identify; THEA original, tag from title only"
+   "why": "Cannot identify; THEA original, tag from title only",
+   "audio": "sounds/snd-7597610424405592862.mp3"
   },
   {
    "title": "Dile Que Tu Me Quieres",
@@ -6583,7 +8706,8 @@
    "mood": "romantic",
    "energy": "mid",
    "use": "Love, romance, or intimate relationship moments",
-   "why": "Ozuna reggaeton track; 'tell him you want me' romantic theme"
+   "why": "Ozuna reggaeton track; 'tell him you want me' romantic theme",
+   "audio": "sounds/snd-6694708958696835074.mp3"
   },
   {
    "title": "Your Love Is My Drug (do you wanna have a slumber party in my basement)",
@@ -6599,7 +8723,8 @@
    "mood": "funny",
    "energy": "high",
    "use": "Absurdist humor, creepy-funny twists, unexpected punchlines",
-   "why": "Kesha pop track with surreal/unsettling added line; used as joke"
+   "why": "Kesha pop track with surreal/unsettling added line; used as joke",
+   "audio": "sounds/snd-7345902573655574530.mp3"
   },
   {
    "title": "Venus and Flower",
@@ -6615,7 +8740,8 @@
    "mood": "unknown",
    "energy": "unknown",
    "use": "Unknown without hearing the sound",
-   "why": "Cannot identify Austin Farwell track; unknown artist/song"
+   "why": "Cannot identify Austin Farwell track; unknown artist/song",
+   "audio": "sounds/snd-7603351654578210832.mp3"
   },
   {
    "title": "sonido original",
@@ -6631,7 +8757,8 @@
    "mood": "unknown",
    "energy": "unknown",
    "use": "Unknown without hearing the sound",
-   "why": "Cannot identify; Spanish 'original sound', tag from title only"
+   "why": "Cannot identify; Spanish 'original sound', tag from title only",
+   "audio": "sounds/snd-7492115557381065477.mp3"
   },
   {
    "title": "son original",
@@ -6647,7 +8774,8 @@
    "mood": "unknown",
    "energy": "unknown",
    "use": "Unknown without hearing the sound",
-   "why": "Cannot identify; Spanish 'original sound' by Nea, unknown audio"
+   "why": "Cannot identify; Spanish 'original sound' by Nea, unknown audio",
+   "audio": "sounds/snd-7688005566899915552.mp3"
   },
   {
    "title": "Puppy Princess",
@@ -6663,7 +8791,8 @@
    "mood": "happy",
    "energy": "mid",
    "use": "Cute, playful, or feel-good aesthetic content",
-   "why": "'Puppy Princess' title suggests playful, upbeat vibe"
+   "why": "'Puppy Princess' title suggests playful, upbeat vibe",
+   "audio": "sounds/snd-7001203426906392577.mp3"
   },
   {
    "title": "original sound",
@@ -6679,7 +8808,8 @@
    "mood": "unknown",
    "energy": "unknown",
    "use": "Unknown without hearing the sound",
-   "why": "Cannot identify; creator name suggests money/flex theme, unknown audio"
+   "why": "Cannot identify; creator name suggests money/flex theme, unknown audio",
+   "audio": "sounds/snd-7625800734319840014.mp3"
   },
   {
    "title": "original sound",
@@ -6695,7 +8825,8 @@
    "mood": "sad",
    "energy": "low",
    "use": "Vulnerable, emotional, or mental health-related content",
-   "why": "Creator name 'Mentally scared' suggests dark/emotional audio"
+   "why": "Creator name 'Mentally scared' suggests dark/emotional audio",
+   "audio": "sounds/snd-7352519992614587179.mp3"
   }
  ]
 }
